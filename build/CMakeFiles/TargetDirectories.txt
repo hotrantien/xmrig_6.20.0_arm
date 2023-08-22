@@ -1,0 +1,12 @@
+/home/ubuntu/xmrig/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/xmrig/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/xmrig/build/CMakeFiles/xmrig.dir
+/home/ubuntu/xmrig/build/src/3rdparty/argon2/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/xmrig/build/src/3rdparty/argon2/CMakeFiles/edit_cache.dir
+/home/ubuntu/xmrig/build/src/3rdparty/argon2/CMakeFiles/argon2.dir
+/home/ubuntu/xmrig/build/src/3rdparty/libethash/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/xmrig/build/src/3rdparty/libethash/CMakeFiles/edit_cache.dir
+/home/ubuntu/xmrig/build/src/3rdparty/libethash/CMakeFiles/ethash.dir
+/home/ubuntu/xmrig/build/src/crypto/ghostrider/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/xmrig/build/src/crypto/ghostrider/CMakeFiles/edit_cache.dir
+/home/ubuntu/xmrig/build/src/crypto/ghostrider/CMakeFiles/ghostrider.dir
